@@ -1,0 +1,36 @@
+README_ZH.md
+  s_82d5302b873277::t_f306885b30c97e 73,75,77,80-91,93,97-100
+reference/composition-and-light.md
+  s_82d5302b873277::t_f306885b30c97e 26,66-67
+README.md
+  s_82d5302b873277::t_f306885b30c97e 73,75,77,80-91,93,98-100
+  s_82d5302b873277::t_bf426861f1cb58 101
+reference/lessons.md
+  s_82d5302b873277::t_433d10e4e69a3f 232
+  s_82d5302b873277::t_baddc435a6c489 332
+  s_82d5302b873277::t_9fcd433b692a6c 211
+  s_82d5302b873277::t_3b9117e97d3b02 213
+  s_82d5302b873277::t_f306885b30c97e 203-209,212,214-231,233-240,242,244-253,255-328,330,333-347,349-354,356-408
+  s_82d5302b873277::t_4cabfaf5dc1e25 348
+  s_82d5302b873277::t_dc37f7d6984138 210
+  s_82d5302b873277::t_22b3f0a0cd8a7d 241,243
+  s_82d5302b873277::t_42d304b8828147 254
+  s_82d5302b873277::t_d96ad31d8abb97 355
+  s_82d5302b873277::t_c6c40dffe627fc 329,331
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9d6c74c37e73fac20976377f6e9310d8661f8f96",
+  "prompts": {},
+  "sessions": {
+    "s_82d5302b873277": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5d6c15b5-1649-423a-b06f-2ed0bfc5c948",
+        "model": "deepseek-flash"
+      },
+      "human_author": null
+    }
+  }
+}
