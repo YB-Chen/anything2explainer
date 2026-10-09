@@ -1,0 +1,19 @@
+.gitignore
+  s_82d5302b873277::t_84f24c4a9e270c 17-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "df7261e260ab6c26d8f82ff48dd69a5912ca3e2e",
+  "prompts": {},
+  "sessions": {
+    "s_82d5302b873277": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5d6c15b5-1649-423a-b06f-2ed0bfc5c948",
+        "model": "deepseek-flash"
+      },
+      "human_author": "cyb <ybchen2006@163.com>"
+    }
+  }
+}
