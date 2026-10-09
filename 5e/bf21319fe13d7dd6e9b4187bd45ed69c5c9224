@@ -1,0 +1,19 @@
+template/scripts/still.sh
+  s_82d5302b873277::t_65b58c3a3b482a 9-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5ebf21319fe13d7dd6e9b4187bd45ed69c5c9224",
+  "prompts": {},
+  "sessions": {
+    "s_82d5302b873277": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5d6c15b5-1649-423a-b06f-2ed0bfc5c948",
+        "model": "unknown"
+      },
+      "human_author": "cyb <ybchen2006@163.com>"
+    }
+  }
+}
