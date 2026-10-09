@@ -1,0 +1,27 @@
+reference/composition-and-light.md
+  s_82d5302b873277::t_f306885b30c97e 26,66-67
+README.md
+  s_82d5302b873277::t_f306885b30c97e 73,75,77,80-91,93,98-100
+  s_82d5302b873277::t_bf426861f1cb58 101
+reference/lessons.md
+  s_82d5302b873277::t_f306885b30c97e 203-214,216-477
+  s_82d5302b873277::t_9fcd433b692a6c 215
+README_ZH.md
+  s_82d5302b873277::t_f306885b30c97e 73,75,77,80-91,93,97-100
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3f23c742f14a3c0488b5ce57fbbcc9c7932140ef",
+  "prompts": {},
+  "sessions": {
+    "s_82d5302b873277": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5d6c15b5-1649-423a-b06f-2ed0bfc5c948",
+        "model": "deepseek-flash"
+      },
+      "human_author": "cyb <ybchen2006@163.com>"
+    }
+  }
+}
