@@ -1,0 +1,27 @@
+reference/narration-storyboard.md
+  s_82d5302b873277::t_5969b12dc35975 9-10,16-18
+template/src/common/easing.ts
+  s_82d5302b873277::t_5969b12dc35975 100-132
+template/script/narration.txt
+  s_82d5302b873277::t_5969b12dc35975 3-4,6-7
+template/scripts/tts_build.py
+  s_82d5302b873277::t_5969b12dc35975 8-10,427
+SKILL.md
+  s_82d5302b873277::t_5969b12dc35975 44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1645c5361d0b220d45309f565109484164443ac3",
+  "prompts": {},
+  "sessions": {
+    "s_82d5302b873277": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5d6c15b5-1649-423a-b06f-2ed0bfc5c948",
+        "model": "deepseek-flash"
+      },
+      "human_author": "cyb <ybchen2006@163.com>"
+    }
+  }
+}
