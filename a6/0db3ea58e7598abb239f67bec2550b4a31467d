@@ -1,0 +1,25 @@
+template/src/ui.tsx
+  s_82d5302b873277::t_90c100bb52ce8b 66-79,82-83,511-535,537
+  s_82d5302b873277::t_3dd936456dd373 80
+  s_82d5302b873277::t_bc1508f3784de4 536
+template/src/fx.tsx
+  s_82d5302b873277::t_90c100bb52ce8b 2,137-143,145
+template/src/common/lib.tsx
+  s_82d5302b873277::t_90c100bb52ce8b 55-56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a60db3ea58e7598abb239f67bec2550b4a31467d",
+  "prompts": {},
+  "sessions": {
+    "s_82d5302b873277": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5d6c15b5-1649-423a-b06f-2ed0bfc5c948",
+        "model": "deepseek-flash"
+      },
+      "human_author": "cyb <ybchen2006@163.com>"
+    }
+  }
+}
