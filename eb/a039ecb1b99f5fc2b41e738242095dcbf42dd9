@@ -1,0 +1,27 @@
+template/scripts/still.sh
+  s_82d5302b873277::t_71df6c451f548c 15
+  s_82d5302b873277::t_e06a28c3a9eccb 3
+  s_82d5302b873277::t_65b58c3a3b482a 9-12
+template/scripts/test_render.sh
+  s_82d5302b873277::t_9721008fe37b0b 10
+template/scripts/selfcheck.py
+  s_82d5302b873277::t_84abd9036a71d2 55-62,66
+  s_82d5302b873277::t_d1e2d3fd7076d7 21-32
+  s_82d5302b873277::t_6450f6fd86b8a1 84-89
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "eba039ecb1b99f5fc2b41e738242095dcbf42dd9",
+  "prompts": {},
+  "sessions": {
+    "s_82d5302b873277": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5d6c15b5-1649-423a-b06f-2ed0bfc5c948",
+        "model": "deepseek-flash"
+      },
+      "human_author": null
+    }
+  }
+}
