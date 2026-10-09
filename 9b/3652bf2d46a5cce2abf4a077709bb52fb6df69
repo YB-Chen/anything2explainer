@@ -1,0 +1,37 @@
+reference/composition-and-light.md
+  s_82d5302b873277::t_f306885b30c97e 26,66-67
+README_ZH.md
+  s_82d5302b873277::t_f306885b30c97e 73,75,77,80-91,93,97-100
+reference/lessons.md
+  s_82d5302b873277::t_9fcd433b692a6c 210
+  s_82d5302b873277::t_3b9117e97d3b02 212
+  s_82d5302b873277::t_f306885b30c97e 203-205,207-208,211,213-230,232-239,241,243-252,254-327,329,332-346,348-353,355-407
+  s_82d5302b873277::t_6cfa699b58831e 206
+  s_82d5302b873277::t_22b3f0a0cd8a7d 240,242
+  s_82d5302b873277::t_c6c40dffe627fc 328,330
+  s_82d5302b873277::t_4cabfaf5dc1e25 347
+  s_82d5302b873277::t_d96ad31d8abb97 354
+  s_82d5302b873277::t_dc37f7d6984138 209
+  s_82d5302b873277::t_433d10e4e69a3f 231
+  s_82d5302b873277::t_baddc435a6c489 331
+  s_82d5302b873277::t_42d304b8828147 253
+README.md
+  s_82d5302b873277::t_bf426861f1cb58 101
+  s_82d5302b873277::t_f306885b30c97e 73,75,77,80-91,93,98-100
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9b3652bf2d46a5cce2abf4a077709bb52fb6df69",
+  "prompts": {},
+  "sessions": {
+    "s_82d5302b873277": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5d6c15b5-1649-423a-b06f-2ed0bfc5c948",
+        "model": "deepseek-flash"
+      },
+      "human_author": null
+    }
+  }
+}
