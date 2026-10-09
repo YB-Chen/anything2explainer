@@ -1,0 +1,25 @@
+template/scripts/preview.sh
+  s_82d5302b873277::t_a5e4b1079c7b79 7-11
+  s_82d5302b873277::t_2d27047fc946d2 19
+template/scripts/render.sh
+  s_82d5302b873277::t_956d6c4e9d8020 14
+  s_82d5302b873277::t_0d2edb43702fee 6-10
+template/scripts/motion_check.py
+  s_82d5302b873277::t_93ce44444f908f 82
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "72bc8eaa2882aa6d22311986de7aa4b689482694",
+  "prompts": {},
+  "sessions": {
+    "s_82d5302b873277": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5d6c15b5-1649-423a-b06f-2ed0bfc5c948",
+        "model": "deepseek-flash"
+      },
+      "human_author": "cyb <ybchen2006@163.com>"
+    }
+  }
+}
